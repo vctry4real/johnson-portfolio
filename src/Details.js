@@ -130,7 +130,7 @@ export const projectDetails = [
     description: `The Hostel Management System is a streamlined software solution that automates room allocation, reservation management,enhancing efficiency and transparency. It simplifies administrative tasks,and ensures secure data management, revolutionizing hostel operations. Resident information, it's an indispensable tool for modern hostel management.`,
     techstack: "HTML/CSS, JavaScript, PHP, MySQL",
     stats: "Finished",
-    previewLink: "https://github.com/vctry4real/Hostels",
+    previewLink: "/",
     githubLink: "https://github.com/vctry4real/Hostels",
   },
   {
@@ -139,16 +139,16 @@ export const projectDetails = [
     description: `Integrated Ethereum block-chain ERC20 Token into an Ecommerce Store's payment system. The aim is to enable customers to pay for goods using crypto currency,`,
     techstack: "React js, Node js, Express, MongoDB, Solidity",
     stats: "Finished",
-    previewLink: "https://github.com/vctry4real/blockchain-ecommerce",
+    previewLink: "/",
     githubLink: "https://github.com/vctry4real/blockchain-ecommerce",
   },
   {
-    title: "Food Ordering System (Front-end)",
+    title: "Door Step Dinning (Front-end)",
     image: fooddelivery,
     description: `This system enables users to order food online from a Restaurant `,
     techstack: "React js",
     stats: "Finished",
-    previewLink: "https://google.com",
+    previewLink: "https://doorstepdinning.vercel.app/",
     githubLink: "https://github.com/vctry4real/food-delivery-react",
   },
   {
@@ -158,7 +158,7 @@ export const projectDetails = [
     techstack: "Webflow, Airtable",
     stats: "In development",
     previewLink: "https://foodieskitchen.webflow.io/",
-    githubLink: "",
+    githubLink: "/",
   },
   {
     title: "NYSC Ogbomosho North Corp Member Management System",
@@ -166,8 +166,8 @@ export const projectDetails = [
     description: `Store all the corp members details serving in Ogbomosho north. With some other features too`,
     techstack: "HTML/CSS, Php, JavaScript, MySQL",
     stats: "In development",
-    previewLink: "",
-    githubLink: "",
+    previewLink: "/",
+    githubLink: "/",
   },
   /*{
     title: "Project title 6",
